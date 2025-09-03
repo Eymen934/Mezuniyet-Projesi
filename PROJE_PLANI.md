@@ -81,11 +81,6 @@
 - [ ] Embed görünümlerini kontrol et.
 - [ ] Hataları düzelt.
 
-### Gün 17-18: Yayınlama
-- [ ] Botu Heroku / Railway / Replit / VPS gibi hostinge yükle.
-- [ ] 7/24 çalıştığından emin ol.
-- [ ] Sunucuda kullanıcı testi yap.
-
 ### Gün 19: Kullanıcı Geri Bildirimi
 - [ ] Arkadaşlarını veya test kullanıcılarını botu denemesi için davet et.
 - [ ] Geri bildirimleri topla ve düzeltmeler yap.
@@ -95,7 +90,7 @@
 ## **6. Gelecek Geliştirmeler**
 - Çoklu dil desteği (TR/EN)
 - Ürün kataloğunu JSON veya SQL ile dinamik hale getirme
-- Otomatik karşılama mesajı (sunucuya yeni girenler için)
+- Otomatik karşılama mesajı (Yapıldı)
 - İstatistik ve analitik geliştirmeleri
 - Bot performans optimizasyonu
 
